@@ -1,28 +1,26 @@
+## Introduce
+Welcome to **C_Programming_Code_PTIT**! This folder is a treasure trove of C programming knowledge, designed specifically for students and lecturers of the Posts and Telecommunications Institute of Technology (PTIT). Here, you will find everything from basic exercises to complex exercises, all aimed at improving and strengthening your C programming skills.
 
-## Giới Thiệu
-Chào mừng bạn đến với **C_Programming_Code_PTIT**! Folder này là một kho tàng kiến thức lập trình C, được thiết kế riêng cho sinh viên và giảng viên của Học viện Công nghệ Bưu chính Viễn thông (PTIT). Ở đây, bạn sẽ tìm thấy mọi thứ từ bài tập cơ bản đến các bài tập phức tạp, tất cả đều nhằm mục đích cải thiện và tăng cường kỹ năng lập trình C.
+## Main content
+### Programming Exercises
+- Basic exercises: For beginners.
+- Advanced exercises: Challenge your problem-solving skills.
 
-## Nội Dung Chính
-### Bài Tập Lập Trình
-- Bài tập cơ bản: Dành cho người mới bắt đầu.
-- Bài tập nâng cao: Thách thức kỹ năng giải quyết các vấn đề của bạn.
+### Study document
+- Detailed instructions: Includes programming tips and tricks.
 
-### Tài Liệu Học Tập
-- Hướng dẫn chi tiết: Bao gồm tips và thủ thuật lập trình.
+## Update
+This folder will be periodically updated with:
+- New exercises and projects.
+- Updated learning materials.
 
-## Cập Nhật
-Folder này sẽ được cập nhật định kỳ với:
-- Bài tập mới và dự án.
-- Tài liệu học tập cập nhật.
+## Community
+We believe in the power of community and encourage the exchange of knowledge between students and faculty.
 
-## Cộng Đồng
-Chúng tôi tin tưởng vào sức mạnh của cộng đồng và khuyến khích sự trao đổi kiến thức giữa sinh viên và giảng viên.
-
-## Liên Hệ
-Đóng góp ý kiến của bạn thông qua [GitHub Issues](https://github.com/cloudysman/C_Programming_PTIT/issues/new) hoặc liên hệ trực tiếp với tôi qua [tronghieu.ghe@gmail.com](#) or[HieuDT.B20DCCN242@STU.PTIT.EDU.VN](#).
+## Contact
+Contribute your comments via [GitHub Issues](https://github.com/cloudysman/C_Programming_PTIT/issues/new) or contact me directly via [tronghieu.ghe@gmail.com](#) or [HieuDT.B20DCCN242@STU.PTIT.EDU.VN](#).
 
 ---
 
-Hãy bắt đầu hành trình lập trình C của bạn ngay hôm nay với **C_Programming_Code_PTIT**! 
+Start your C programming journey today with **C_Programming_Code_PTIT**!
 ![image](https://github.com/cloudysman/C_Programming_PTIT/assets/84241388/36b4e827-2fdc-4d02-99cb-a8a65cfb73e8)
-
