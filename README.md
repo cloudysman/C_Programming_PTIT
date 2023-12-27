@@ -19,7 +19,7 @@ Folder này sẽ được cập nhật định kỳ với:
 Chúng tôi tin tưởng vào sức mạnh của cộng đồng và khuyến khích sự trao đổi kiến thức giữa sinh viên và giảng viên.
 
 ## Liên Hệ
-Đóng góp ý kiến của bạn thông qua [GitHub Issues]([#](https://github.com/cloudysman/C_Programming_PTIT/issues/new)) hoặc liên hệ trực tiếp với tôi qua [Email](tronghieu.ghe@gmail.com) or[Email](HieuDT.B20DCCN242@STU.PTIT.EDU.VN).
+Đóng góp ý kiến của bạn thông qua [GitHub Issues]([(https://github.com/cloudysman/C_Programming_PTIT/issues/new)]) hoặc liên hệ trực tiếp với tôi qua [tronghieu.ghe@gmail.com](#) or[HieuDT.B20DCCN242@STU.PTIT.EDU.VN](#).
 
 ---
 
