@@ -1,4 +1,3 @@
-![image](https://github.com/cloudysman/C_Programming_PTIT/assets/84241388/36b4e827-2fdc-4d02-99cb-a8a65cfb73e8)![image](https://github.com/cloudysman/C_Programming_PTIT/assets/84241388/68028a04-1dcf-4c49-b53d-fd19769fed7d)# C_Programming_Code_PTIT
 
 ## Giới Thiệu
 Chào mừng bạn đến với **C_Programming_Code_PTIT**! Folder này là một kho tàng kiến thức lập trình C, được thiết kế riêng cho sinh viên và giảng viên của Học viện Công nghệ Bưu chính Viễn thông (PTIT). Ở đây, bạn sẽ tìm thấy mọi thứ từ bài tập cơ bản đến các bài tập phức tạp, tất cả đều nhằm mục đích cải thiện và tăng cường kỹ năng lập trình C.
@@ -25,5 +24,5 @@ Chúng tôi tin tưởng vào sức mạnh của cộng đồng và khuyến kh�
 ---
 
 Hãy bắt đầu hành trình lập trình C của bạn ngay hôm nay với **C_Programming_Code_PTIT**! 
-![Uploading image.png…]("C:\Users\HieuB20DCCN242\Pictures\Screenshots\Ảnh chụp màn hình 2023-12-27 211746.png")
+![image](https://github.com/cloudysman/C_Programming_PTIT/assets/84241388/36b4e827-2fdc-4d02-99cb-a8a65cfb73e8)
 
